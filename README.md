@@ -1,89 +1,54 @@
 # Hi, I'm Subhashish Bagchi 👋
+### QA Engineer | Automation | API Testing | Quality Engineering
 
-### QA Engineer | Automation | API | Quality Engineering
-
-QA Engineer with **5+ years of experience** in software testing, working across manual testing, UI automation, API testing, integration testing, and performance testing.
-
-I have experience working with **product-based, SaaS, eCommerce, and integration-driven applications**, with a strong focus on delivering reliable and high-quality software.
+QA Engineer with **5+ years of experience** across manual testing, UI automation, API testing, integration testing, and performance testing — building reliable, high-quality software for **SaaS, eCommerce, and integration-driven products**.
 
 ---
 
-## About Me
+## Highlights
 
-* **5+ years of experience** in Software Quality Assurance
-* Strong experience in **Manual Testing, UI Automation, API Testing, Integration Testing, and Regression Testing**
-* Hands-on experience with **Java, Selenium, Cucumber, JUnit, Maven, Postman, and JMeter**
-* Experience testing **SaaS and integration-based applications**
-* Experience working with **eCommerce, ERP, CRM, and third-party integrations**
-* Experienced in designing and maintaining **test scenarios, test cases, regression suites, and automation scripts**
-* Familiar with **Agile development and collaborative QA practices**
-* Interested in building scalable and maintainable **test automation solutions**
-* Focused on modern **Quality Engineering, API automation, Playwright, and AI-assisted testing**
+- 🏆 **Best Individual Contributor** — DCKAP Employee Awards, Q1 2024
+- 🎤 Invited speaker/panelist — **AI-TAS: Understanding How Agentic AI is Redefining Automation Solutions**
+- 🎤 Invited speaker/panelist — **Sustainability & QA: How Human-Centered Design Is Becoming a Pillar of Quality**
+  *(engaged in an in-depth discussion on how AI is reshaping QA operations — shifting testers from repetitive execution toward higher-value, judgment-driven work)*
 
 ---
 
-## Tech Stack
+## Blogs & Writing
 
-### Automation & Testing
+*(Adding new posts regularly — check back soon)*
 
-`Selenium` `Cucumber` `JUnit` `Maven` `Postman` `JMeter`
-
-### Programming & Database
-
-`Java` `SQL`
-
-### Tools & Platforms
-
-`Git` `GitHub` `JIRA` `Azure DevOps`
-
-### Testing Expertise
-
-`Manual Testing` `UI Automation` `API Testing` `Regression Testing`
-`Smoke Testing` `Sanity Testing` `Integration Testing` `Performance Testing`
+- [ ] Post 1 — *coming soon*
+- [ ] Post 2 — *coming soon*
+- [ ] Post 3 — *coming soon*
 
 ---
 
-## Domain Experience
+## What I Work With
 
-* SaaS Applications
-* eCommerce Applications
-* API & System Integrations
-* ERP & CRM Integrations
-* Third-Party Integrations
+**Automation & Testing:** `Selenium` `Cucumber` `JUnit` `Maven` `Postman` `REST Assured` `JMeter`
+**Language & Data:** `Java` `Python` `SQL`
+**Tools:** `Git` `GitHub` `JIRA` `Azure DevOps`
+**Testing Types:** `Manual` `UI Automation` `API` `Regression` `Smoke` `Sanity` `Integration` `Performance`
 
-### Platforms & Applications
-
-**eCommerce:** Shopify, BigCommerce, WooCommerce
-
-**ERP / CRM:** SAP, Zoho, QuickBooks
+**Domains:** SaaS · eCommerce · ERP/CRM · Third-Party Integrations
+**Platforms tested:** Shopify, BigCommerce, WooCommerce, SAP, Zoho, QuickBooks
 
 ---
 
-## QA Engineering Projects
+## Currently Building
 
-I'm building a collection of practical QA engineering projects covering automation, API testing, performance testing, and modern testing practices.
+🚧 **An end-to-end Python framework for AI agent evaluation** — designed to assess agent behavior across multiple evaluation metrics, bringing structured QA rigor to agentic AI systems.
 
-### UI Automation
+Alongside this, a public set of QA engineering projects:
+- **UI Automation** — Java + Selenium + Cucumber + JUnit + Maven
+- **API Testing** — Postman + REST Assured
+- **Performance Testing** — Apache JMeter
 
-**Java + Selenium + Cucumber + JUnit + Maven**
-
-### API Testing & Automation
-
-**Postman + REST Assured**
-
-### Performance Testing
-
-**Apache JMeter**
----
-
-## GitHub Goals
-
-My GitHub is focused on documenting practical QA engineering work, automation frameworks, testing techniques, and continuous improvement in software quality.
-
-**Building → Automating → Testing → Improving**
+`Building → Automating → Testing → Improving`
 
 ---
 
 ## Let's Connect
 
-[LinkedIn](https://www.linkedin.com/in/subhashish-bagchi-597b48176/) • [GitHub](https://github.com/Subhashish1998)
+[LinkedIn](https://www.linkedin.com/in/subhashish-bagchi-597b48176/) · [GitHub](https://github.com/Subhashish1998)
