@@ -3,14 +3,12 @@
 
 QA Engineer with **5+ years of experience** across manual testing, UI automation, API testing, integration testing, and performance testing — building reliable, high-quality software for **SaaS, eCommerce, and integration-driven products**.
 
----
 
 ## Highlights
 
 - 🏆 **Best Individual Contributor** — DCKAP Employee Awards, Q1 2024
 - 🎤 Invited speaker/panelist — **AI-TAS: Understanding How Agentic AI is Redefining Automation Solutions**
 
----
 
 ## Blogs & Writing
 
@@ -20,7 +18,6 @@ QA Engineer with **5+ years of experience** across manual testing, UI automation
 - [ ] Post 2 — *coming soon*
 - [ ] Post 3 — *coming soon*
 
----
 
 ## What I Work With
 
@@ -32,7 +29,6 @@ QA Engineer with **5+ years of experience** across manual testing, UI automation
 **Domains:** SaaS · eCommerce · ERP/CRM · Third-Party Integrations
 **Platforms tested:** Shopify, BigCommerce, WooCommerce, SAP, Zoho, QuickBooks
 
----
 
 ## Currently Building
 
@@ -45,7 +41,6 @@ Alongside this, a public set of QA engineering projects:
 
 `Building → Automating → Testing → Improving`
 
----
 
 ## Let's Connect
 
