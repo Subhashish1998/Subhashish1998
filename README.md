@@ -14,7 +14,7 @@ QA Engineer with **5+ years of experience** across manual testing, UI automation
 
 *(Adding new posts regularly — check back soon)*
 
-- [ ] Post 1 — *coming soon*
+- [https://blackboxtestingguide7.wordpress.com/2026/08/22/black-box-testing-techniques-how-smart-test-design-helps-you-find-more-bugs-with-fewer-test-cases/ ] 
 - [ ] Post 2 — *coming soon*
 - [ ] Post 3 — *coming soon*
 
