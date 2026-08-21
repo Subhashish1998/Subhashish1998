@@ -67,72 +67,13 @@ I'm building a collection of practical QA engineering projects covering automati
 
 **Java + Selenium + Cucumber + JUnit + Maven**
 
-Focus areas:
-
-* Page Object Model
-* BDD
-* Test automation framework design
-* Reusable test components
-* Regression automation
-
 ### API Testing & Automation
 
 **Postman + REST Assured**
 
-Focus areas:
-
-* REST API testing
-* Request & response validation
-* Authentication
-* Positive & negative testing
-* API automation
-
 ### Performance Testing
 
 **Apache JMeter**
-
-Focus areas:
-
-* Load testing
-* Stress testing
-* Response-time analysis
-* Performance test scenarios
-
-> More practical QA engineering projects will be added here as they are completed.
-
----
-
-## QA & Software Testing Series
-
-I share practical software testing concepts and QA knowledge through my **QA & Software Testing Series**.
-
-Topics include:
-
-* Software Testing Fundamentals
-* SDLC & STLC
-* Verification & Validation
-* Testing Principles
-* Testing Levels
-* Test Design Techniques
-* Defect Management
-* Test Automation
-* API Testing
-* Performance Testing
-* Modern Quality Engineering Practices
-
----
-
-## Areas of Focus
-
-* Selenium web driver
-* Playwright
-* REST Assured
-* API Automation
-* Modern Test Automation
-* AI-Assisted Testing
-* AI Agent Testing & Evaluation
-* Quality Engineering
-
 ---
 
 ## GitHub Goals
