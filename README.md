@@ -7,7 +7,7 @@ QA Engineer with **5+ years of experience** across manual testing, UI automation
 ## Highlights
 
 - 🏆 **Best Individual Contributor** — DCKAP Employee Awards, Q1 2024
-- 🎤 Invited speaker/panelist — **AI-TAS: Understanding How Agentic AI is Redefining Automation Solutions**
+- 🎤 Invited speaker — **AI-TAS: Understanding How Agentic AI is Redefining Automation Solutions**
 
 
 ## Blogs & Writing
