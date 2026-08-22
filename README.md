@@ -11,8 +11,9 @@ QA Engineer with **5+ years of experience** across manual testing, UI automation
 
 
 ## Blogs & Writing
- [https://blackboxtestingguide7.wordpress.com/wp-admin/post.php?post=8&action=edit ] 
- [https://www.dckap.com/rhino-diary/transforming-qa-at-dckap/]
+
+-  [Black Box Testing Guide](https://blackboxtestingguide7.wordpress.com/) — personal blog on QA & testing concepts
+-  [Transforming QA at DCKAP](https://www.dckap.com/rhino-diary/transforming-qa-at-dckap/) — DCKAP Rhino Diary
 
 
 ## What I Work With
