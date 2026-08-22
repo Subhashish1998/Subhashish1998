@@ -38,7 +38,3 @@ Alongside this, a public set of QA engineering projects:
 
 `Building → Automating → Testing → Improving`
 
-
-## Let's Connect
-
-[LinkedIn](https://www.linkedin.com/in/subhashish-bagchi-597b48176/) · [GitHub](https://github.com/Subhashish1998)
