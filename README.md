@@ -29,7 +29,7 @@ QA Engineer with **5+ years of experience** across manual testing, UI automation
 
 ## Currently Building
 
-🚧 **An end-to-end Python framework for AI agent evaluation** — designed to assess agent behavior across multiple evaluation metrics, bringing structured QA rigor to agentic AI systems.
+**An end-to-end Python framework for AI agent evaluation** — designed to assess agent behavior across multiple evaluation metrics, bringing structured QA rigor to agentic AI systems.
 
 Alongside this, a public set of QA engineering projects:
 - **UI Automation** — Java + Selenium + Cucumber + JUnit + Maven
