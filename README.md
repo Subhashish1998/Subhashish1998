@@ -5,6 +5,8 @@
 ![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&pause=1000&color=2E9EF7&center=true&vCenter=true&width=700&lines=QA+Engineer+%7C+Automation+%7C+API+Testing;5%2B+years+testing+SaaS+%26+eCommerce+platforms;Bringing+structured+rigor+to+Agentic+AI+testing;Turning+bugs+into+better+products+%F0%9F%9A%80)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Subhashish1998&color=2E9EF7&style=for-the-badge&label=PROFILE+VIEWS)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/subhashish-bagchi-597b48176/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bagchisubhashish4@gmail.com)
 
 </div>
 
@@ -37,6 +39,7 @@ QA Engineer with **5+ years of experience** across manual testing, UI automation
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![RestAssured](https://img.shields.io/badge/REST%20Assured-3E4348?style=for-the-badge&logo=java&logoColor=white)
 ![JMeter](https://img.shields.io/badge/JMeter-D22128?style=for-the-badge&logo=apachejmeter&logoColor=white)
+![DeepEval](https://img.shields.io/badge/DeepEval-6E56CF?style=for-the-badge&logo=python&logoColor=white)
 
 **Language & Data**
 
